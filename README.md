@@ -3,6 +3,8 @@ Five years ago, This was our junior software engineering project.
 
 Time has passed so far that I have forgotten many things.
 
+The most complete code is nowhere to be found. And this is one of the intermediate releases.
+
 ---
 
 ## description:
